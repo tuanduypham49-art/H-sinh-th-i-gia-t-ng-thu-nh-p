@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Sinh Thái Gia Tăng Thu Nhập - V24 Enterprise",
+  "description": "Hệ Sinh Thái Gia Tăng Thu Nhập V24 Enterprise 8 Cấp - Hệ thống ghi nhận và đối soát thu nhập minh bạch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
